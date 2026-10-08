@@ -1,0 +1,38 @@
+[
+  {
+    "image": "00060_true-chair_pred-table_chair_0950.png",
+    "true": "chair",
+    "predicted": "table",
+    "path": "dataset\\lbp\\test\\chair\\chair_0950.png"
+  },
+  {
+    "image": "00068_true-chair_pred-table_chair_0958.png",
+    "true": "chair",
+    "predicted": "table",
+    "path": "dataset\\lbp\\test\\chair\\chair_0958.png"
+  },
+  {
+    "image": "00083_true-chair_pred-table_chair_0973.png",
+    "true": "chair",
+    "predicted": "table",
+    "path": "dataset\\lbp\\test\\chair\\chair_0973.png"
+  },
+  {
+    "image": "00157_true-table_pred-chair_table_0450.png",
+    "true": "table",
+    "predicted": "chair",
+    "path": "dataset\\lbp\\test\\table\\table_0450.png"
+  },
+  {
+    "image": "00169_true-table_pred-chair_table_0462.png",
+    "true": "table",
+    "predicted": "chair",
+    "path": "dataset\\lbp\\test\\table\\table_0462.png"
+  },
+  {
+    "image": "00199_true-table_pred-chair_table_0492.png",
+    "true": "table",
+    "predicted": "chair",
+    "path": "dataset\\lbp\\test\\table\\table_0492.png"
+  }
+]

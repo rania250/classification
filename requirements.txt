@@ -1,0 +1,7 @@
+numpy
+trimesh
+Pillow
+scipy
+scikit-image
+torch
+torchvision
